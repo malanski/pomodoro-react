@@ -14,12 +14,13 @@ A stopwatch application for Study, based on a time management technique called p
  - HTML + CSS
   
 ## Objectives  
-   
-- Consume Spotify API 
-- Deploy on Cloud
+ 
+The objective of the project is to use the pomodoro study method to generate more concentration in studies and thus better productivity.
 
 ## Features  
   
+- Consume Spotify API 
+- Deploy on Cloud
 - Stopwatch
 - Access to Spotfy Playlist for Study
 - User login
