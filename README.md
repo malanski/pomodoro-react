@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# Pomodoro-react 
+  
+A stopwatch application for Study, based on a time management technique called pomodoro
+  
+<a href="https://WalkerBrum.github.io/pomodoro-react">WalkerBRum Deploy</a>  
+  
+<a href="https://malanski.github.io/pomodoro-react">Malanski Deploy</a>    
+  
+## Technologies 
+  
+ - ReactJs
+ - Spotfy API
+ - JavaScript
+ - HTML + CSS
+  
+## Objectives  
+   
+- Consume Spotify API 
+- Deploy on Cloud
+
+## Features  
+  
+- Stopwatch
+- Access to Spotfy Playlist for Study
+- User login
+
+## How to run as a Developer
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
